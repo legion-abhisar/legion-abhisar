@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhisar</h1>
 <h3 align="center">A passionate python developer from India</h3>
+<h3 align="center">Also love embedded systems. 💖</h3>
 
 <p align="left">
 </p>
